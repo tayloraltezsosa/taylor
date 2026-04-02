@@ -1,1 +1,1 @@
-Hola estos virus uno es simulación y dos son reales son echos por IA espero que esten echo bien
+Hola, en este repositorio de GitHub yo subo virus creados con inteligencia artificial, como Venice.ai, y miniapps que son IAs privadas. Plataformas como ChatGPT, Z.IA o Gemini IA solo realizan simulaciones: abren aplicaciones, pestañas, y realizan otras tareas similares.
